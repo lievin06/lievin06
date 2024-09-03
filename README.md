@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/6c2c3437-6b06-43a3-b1bc-9fd35e5b40d1" height="20%" width="20%"/>
 
-## About Me <img src="https://tenor.com/view/fighitng-game-gaming-playing-control-gif-17924853427316830257" height="5%" width="5%"/>
+## About Me
 
 ### Personal Information
 - **Name:** Lievin Reyes
