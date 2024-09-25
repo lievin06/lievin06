@@ -19,7 +19,7 @@
 ### Connect with me:
 
 <p>
-  <a href="https://fb.com/lievin reyes" >
+  <a href="https://fb.com/lievin reyes" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lievin reyes" height="30" width="40" />
   </a>
   <a href="https://instagram.com/lievin_" target="_blank">
